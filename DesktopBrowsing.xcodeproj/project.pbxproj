@@ -24,6 +24,8 @@
 		D8B2DF242476EF8C00DF3FBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8B2DF272476EF8C00DF3FBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8B2DF292476EF8C00DF3FBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8B2DF2F2477847800DF3FBB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D8B2DF30247784CF00DF3FBB /* yahoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahoo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		D8B2DF0F2476EF8A00DF3FBB = {
 			isa = PBXGroup;
 			children = (
+				D8B2DF2F2477847800DF3FBB /* README.md */,
+				D8B2DF30247784CF00DF3FBB /* yahoo.jpg */,
 				D8B2DF1A2476EF8A00DF3FBB /* DesktopBrowsing */,
 				D8B2DF192476EF8A00DF3FBB /* Products */,
 			);
